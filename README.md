@@ -1,0 +1,2 @@
+# Algorithm
+barcha algorithmar haqida
