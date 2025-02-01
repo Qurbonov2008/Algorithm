@@ -4,7 +4,7 @@
  ! Algorithm bu muayyan bir muamoni yechish uchun qiliniladigan amllar ketma ketligi hisoblnadi
 
  # Algorithm 3 turga bo'linadi
- 1. chiziqli algorithm
+# Chiziqli algorithm
  chiziqli algortihm algortihmlarni eng sodda turi hisobladi
  ! Unda bajariladigan amallar  ham  buyurqlar ham qanday tartibda bo'lsa shunday  tartibda ketma-ket bajariladi, yani unda hech qanday shart bo'lmaydi
 
@@ -17,7 +17,7 @@
 
  kelinglar qolganini masala orqali tushuntiraman buning uchun siz chiziqli.php ga o'tishingizni so'rayman
 
- 2. Tarmoqlanuvchi algorithm
+ # Tarmoqlanuvchi algorithm
 
  ! Tarmoqlanuvchi algorithm bu malum bir shart asosida ishlaydi misol uchun. Tarmoqlanuvchi algorithmda ikkita tanlov boladi ha yoki yo'q yani unisi yoki bunisi degan tanlov bo'ladi
 
@@ -49,3 +49,16 @@ B
 
 
 Kelinlar boshqa masalalarni realni koda ko'rib o'tamiz buning uchun siz tarmoqlanuvchi.php ga kiring 
+
+
+# Taktorlanuchi Algorithm
+
+ // Algorithm o'z nomi bilan takrorlanuchi algorithm muamolarni yechishda bir amalni yoki bir necha marta takrorlash orqali yechimga erishiladigan algorithmdir
+
+
+ Kundalik hayotda misol uchun: Har kuni uyg'onish: har kuni tushlik qilish: yani kimnidir kar kunlik odat tusiga kirib qolgan narsa bu takrorlanuvchi algorithm deyiladi
+
+
+Takrorlanuvchi algoritm (iterative algorithm) deganda bir xil amalni bir necha marta bajaradigan algoritm tushuniladi. Bunday algoritmlar asosan tsikllar (loops) yordamida yoziladi.
+
+ ! Keling qolgan misollarni kodlarda ko'rib chiqamiz takrorlanuvchi.php fayiliga kirishingizni so'rayman
