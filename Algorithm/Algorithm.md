@@ -13,7 +13,7 @@
  2.Honaga kirish
  3.stulga sumkani qo'yish
  4.stulga o'tish
- 5.tamom
+ 5.tamom    
 
  kelinglar qolganini masala orqali tushuntiraman buning uchun siz chiziqli.php ga o'tishingizni so'rayman
 
