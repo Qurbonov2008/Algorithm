@@ -6,4 +6,4 @@
 
   Misol uchun 
 
-  1. 
+  1. Chiziqli_algorithm/index.php ga kiringlar
