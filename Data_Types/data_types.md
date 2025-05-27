@@ -30,3 +30,6 @@
 
 
 
+
+
+Loyihalardan birida Team Lead yani ustozim kasal bo'lib qolganligi tufayli 1 hafta davolandi. Bu vaqt mobaynida Team lead saylash kerak edi va ustozim meni nomzod qilib ko'rsatdi va  Project Manager ham buni tasdiqladi keyin  vaqtincha rahbar sifatida tanlangandim. Mas'uliyatimga 5 nafar xodimdan iborat jamoani boshqarish, ularga vazifalarni taqsimlash, kodlarni tekshirish , loyiha muddatlariga rioya etilishini nazorat qilish hamda Project Manager bilan aloqa qilish kirgan. Jamoa ichidagi hamkorlikni tashkil qilish va texnik muammolarni birga hal qilishda faol ishtirok etganman.
